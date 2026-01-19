@@ -1,6 +1,7 @@
 {
     "files.associations": {
         "*.html": "django-html",
-        "algorithm": "cpp"
+        "algorithm": "cpp",
+        "vector": "cpp"
     }
 }

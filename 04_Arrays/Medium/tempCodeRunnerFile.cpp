@@ -1,7 +1,1 @@
-for(int i=0;i<r;i++){
-        //     for(int j=0;j<(c/2);j++){
-        //         int temp = nums[i][j];
-        //         nums[i][j]= nums[i][c-1-j];
-        //         nums[i][c-1-j]=temp;
-        //     }
-        // }
+    // vector<int> arr ={-2,-2,-2,-1,-1,-1,0,0,0,2,2,2};
