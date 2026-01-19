@@ -21,6 +21,8 @@ The goal is to build a strong foundation in problem-solving, improve competitive
  - 📂 02_CPP STL
  - 📂 03_Sorting
  - 📂 04_Arrays
+ - 📂 05_Binary_Search
+ - 📂 06_Strings
  - 📜 README.md
 
 ---
